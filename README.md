@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Golf Charity Subscription Platform
 
 A modern subscription-based golf platform built with Next.js 14, Supabase, and Stripe. Users enter golf scores, participate in monthly prize draws, and contribute to charities.
@@ -127,3 +128,7 @@ To make a user admin, update their role in Supabase:
 ```sql
 UPDATE profiles SET role = 'admin' WHERE email = 'admin@example.com';
 ```
+=======
+# Golf_charity
+Golf Charity Subscription Platform is a full-stack web application where users subscribe, submit their golf scores, and participate in monthly prize draws while supporting charities. The platform includes user and admin dashboards, secure authentication, Stripe subscription payments, and a Supabase-powered backend.
+>>>>>>> 0f6fc39e7506be521bb26aaada094fec3889b5d8
